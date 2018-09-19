@@ -1,3 +1,3 @@
 <?php
-    echo rand(0,2);
-?>
+    $quote = rand(0,2);
+
