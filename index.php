@@ -34,13 +34,13 @@
 			<?php
                 switch ($quote) {
             case 0:
-                echo "Long days journey";
+                echo "When you come to a fork in the road, take it. - Yogi Berra";
                 break;
             case 1:
-                echo "Into night";
+                echo "The journey of a thousand miles begins with one step. - Lao Tzu";
                 break;
             case 2:
-                echo "And so forth";
+                echo "Life is what happens when you are busy making other plans. - John Lennon";
                 break;
             }
             ?>	
