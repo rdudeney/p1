@@ -3,7 +3,7 @@
 + Production URL: <http://p1.stephendudeney.me>
 
 ## Outside resources
-+ php.net
++ [php.net](http://php.net)
 
 ## Notes for instructor
-
++ This project used the sample as template
